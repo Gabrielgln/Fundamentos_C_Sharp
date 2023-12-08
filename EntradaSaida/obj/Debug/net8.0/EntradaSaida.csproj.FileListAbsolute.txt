@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\bin\Debug\net8.0\EntradaSaida.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\bin\Debug\net8.0\EntradaSaida.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\bin\Debug\net8.0\EntradaSaida.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\bin\Debug\net8.0\EntradaSaida.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\bin\Debug\net8.0\EntradaSaida.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\EntradaSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\EntradaSaida.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\EntradaSaida.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\EntradaSaida.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\refint\EntradaSaida.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\EntradaSaida.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\EntradaSaida.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EntradaSaida\obj\Debug\net8.0\ref\EntradaSaida.dll

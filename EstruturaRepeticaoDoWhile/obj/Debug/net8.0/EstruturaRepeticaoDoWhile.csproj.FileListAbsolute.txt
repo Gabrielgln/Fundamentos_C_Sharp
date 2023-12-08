@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\bin\Debug\net8.0\EstruturaRepeticaoDoWhile.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\bin\Debug\net8.0\EstruturaRepeticaoDoWhile.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\bin\Debug\net8.0\EstruturaRepeticaoDoWhile.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\bin\Debug\net8.0\EstruturaRepeticaoDoWhile.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\bin\Debug\net8.0\EstruturaRepeticaoDoWhile.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\EstruturaRepeticaoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\EstruturaRepeticaoDoWhile.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\EstruturaRepeticaoDoWhile.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\EstruturaRepeticaoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\EstruturaRepeticaoDoWhile.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\refint\EstruturaRepeticaoDoWhile.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\EstruturaRepeticaoDoWhile.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\EstruturaRepeticaoDoWhile.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoDoWhile\obj\Debug\net8.0\ref\EstruturaRepeticaoDoWhile.dll

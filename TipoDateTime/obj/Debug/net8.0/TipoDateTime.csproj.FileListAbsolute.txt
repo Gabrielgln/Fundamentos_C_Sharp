@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\bin\Debug\net8.0\TipoDateTime.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\bin\Debug\net8.0\TipoDateTime.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\bin\Debug\net8.0\TipoDateTime.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\bin\Debug\net8.0\TipoDateTime.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\bin\Debug\net8.0\TipoDateTime.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\TipoDateTime.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\TipoDateTime.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\TipoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\TipoDateTime.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\refint\TipoDateTime.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\TipoDateTime.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\TipoDateTime.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoDateTime\obj\Debug\net8.0\ref\TipoDateTime.dll

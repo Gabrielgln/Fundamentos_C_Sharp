@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\bin\Debug\net8.0\FormatandoTiposDeDados.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\bin\Debug\net8.0\FormatandoTiposDeDados.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\bin\Debug\net8.0\FormatandoTiposDeDados.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\bin\Debug\net8.0\FormatandoTiposDeDados.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\bin\Debug\net8.0\FormatandoTiposDeDados.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\FormatandoTiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\FormatandoTiposDeDados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\FormatandoTiposDeDados.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\FormatandoTiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\FormatandoTiposDeDados.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\refint\FormatandoTiposDeDados.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\FormatandoTiposDeDados.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\FormatandoTiposDeDados.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\FormatandoTiposDeDados\obj\Debug\net8.0\ref\FormatandoTiposDeDados.dll

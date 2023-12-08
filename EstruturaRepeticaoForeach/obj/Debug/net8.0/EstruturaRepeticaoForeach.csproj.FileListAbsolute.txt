@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\bin\Debug\net8.0\EstruturaRepeticaoForeach.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\bin\Debug\net8.0\EstruturaRepeticaoForeach.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\bin\Debug\net8.0\EstruturaRepeticaoForeach.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\bin\Debug\net8.0\EstruturaRepeticaoForeach.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\bin\Debug\net8.0\EstruturaRepeticaoForeach.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\EstruturaRepeticaoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\EstruturaRepeticaoForeach.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\EstruturaRepeticaoForeach.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\EstruturaRepeticaoForeach.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\EstruturaRepeticaoForeach.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\refint\EstruturaRepeticaoForeach.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\EstruturaRepeticaoForeach.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\EstruturaRepeticaoForeach.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoForeach\obj\Debug\net8.0\ref\EstruturaRepeticaoForeach.dll

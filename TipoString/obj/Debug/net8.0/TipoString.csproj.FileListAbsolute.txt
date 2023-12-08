@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\bin\Debug\net8.0\TipoString.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\bin\Debug\net8.0\TipoString.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\bin\Debug\net8.0\TipoString.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\bin\Debug\net8.0\TipoString.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\bin\Debug\net8.0\TipoString.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\TipoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\TipoString.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\TipoString.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\TipoString.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\TipoString.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\refint\TipoString.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\TipoString.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\TipoString.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\TipoString\obj\Debug\net8.0\ref\TipoString.dll

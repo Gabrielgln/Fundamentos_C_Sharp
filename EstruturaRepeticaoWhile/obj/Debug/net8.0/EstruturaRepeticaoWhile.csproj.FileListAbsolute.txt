@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\bin\Debug\net8.0\EstruturaRepeticaoWhile.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\bin\Debug\net8.0\EstruturaRepeticaoWhile.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\bin\Debug\net8.0\EstruturaRepeticaoWhile.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\bin\Debug\net8.0\EstruturaRepeticaoWhile.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\bin\Debug\net8.0\EstruturaRepeticaoWhile.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\EstruturaRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\EstruturaRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\EstruturaRepeticaoWhile.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\EstruturaRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\EstruturaRepeticaoWhile.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\refint\EstruturaRepeticaoWhile.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\EstruturaRepeticaoWhile.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\EstruturaRepeticaoWhile.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaRepeticaoWhile\obj\Debug\net8.0\ref\EstruturaRepeticaoWhile.dll

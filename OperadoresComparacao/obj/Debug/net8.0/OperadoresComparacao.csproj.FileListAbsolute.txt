@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\bin\Debug\net8.0\OperadoresComparacao.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\bin\Debug\net8.0\OperadoresComparacao.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\bin\Debug\net8.0\OperadoresComparacao.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\bin\Debug\net8.0\OperadoresComparacao.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\bin\Debug\net8.0\OperadoresComparacao.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\OperadoresComparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\OperadoresComparacao.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\OperadoresComparacao.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\OperadoresComparacao.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\OperadoresComparacao.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\refint\OperadoresComparacao.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\OperadoresComparacao.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\OperadoresComparacao.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresComparacao\obj\Debug\net8.0\ref\OperadoresComparacao.dll

@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\bin\Debug\net8.0\OperadoresUnarios.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\bin\Debug\net8.0\OperadoresUnarios.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\bin\Debug\net8.0\OperadoresUnarios.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\bin\Debug\net8.0\OperadoresUnarios.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\bin\Debug\net8.0\OperadoresUnarios.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\OperadoresUnarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\OperadoresUnarios.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\OperadoresUnarios.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\OperadoresUnarios.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\OperadoresUnarios.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\refint\OperadoresUnarios.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\OperadoresUnarios.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\OperadoresUnarios.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresUnarios\obj\Debug\net8.0\ref\OperadoresUnarios.dll

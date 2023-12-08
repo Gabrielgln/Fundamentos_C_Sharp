@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\refint\OperadoresAtribuicao.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadoresAtribuicao\obj\Debug\net8.0\ref\OperadoresAtribuicao.dll

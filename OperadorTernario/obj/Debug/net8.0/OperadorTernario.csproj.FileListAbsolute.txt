@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\bin\Debug\net8.0\OperadorTernario.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\bin\Debug\net8.0\OperadorTernario.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\bin\Debug\net8.0\OperadorTernario.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\bin\Debug\net8.0\OperadorTernario.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\bin\Debug\net8.0\OperadorTernario.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\OperadorTernario.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\refint\OperadorTernario.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\OperadorTernario.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\OperadorTernario.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\OperadorTernario\obj\Debug\net8.0\ref\OperadorTernario.dll

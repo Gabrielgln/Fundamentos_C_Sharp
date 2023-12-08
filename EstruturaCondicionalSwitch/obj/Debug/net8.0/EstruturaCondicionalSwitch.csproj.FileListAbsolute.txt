@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\bin\Debug\net8.0\EstruturaCondicionalSwitch.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\bin\Debug\net8.0\EstruturaCondicionalSwitch.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\bin\Debug\net8.0\EstruturaCondicionalSwitch.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\bin\Debug\net8.0\EstruturaCondicionalSwitch.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\bin\Debug\net8.0\EstruturaCondicionalSwitch.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\EstruturaCondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\EstruturaCondicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\EstruturaCondicionalSwitch.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\EstruturaCondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\EstruturaCondicionalSwitch.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\refint\EstruturaCondicionalSwitch.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\EstruturaCondicionalSwitch.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\EstruturaCondicionalSwitch.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalSwitch\obj\Debug\net8.0\ref\EstruturaCondicionalSwitch.dll

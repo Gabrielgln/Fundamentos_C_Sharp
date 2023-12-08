@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\bin\Debug\net8.0\EstruturaCondicionalIfElse.exe
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\bin\Debug\net8.0\EstruturaCondicionalIfElse.deps.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\bin\Debug\net8.0\EstruturaCondicionalIfElse.runtimeconfig.json
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\bin\Debug\net8.0\EstruturaCondicionalIfElse.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\bin\Debug\net8.0\EstruturaCondicionalIfElse.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\EstruturaCondicionalIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\EstruturaCondicionalIfElse.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\EstruturaCondicionalIfElse.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\EstruturaCondicionalIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\EstruturaCondicionalIfElse.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\refint\EstruturaCondicionalIfElse.dll
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\EstruturaCondicionalIfElse.pdb
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\EstruturaCondicionalIfElse.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\.NET\TreinaWeb\EstruturaCondicionalIfElse\obj\Debug\net8.0\ref\EstruturaCondicionalIfElse.dll
